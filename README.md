@@ -93,9 +93,3 @@ The **Smart Energy System** showcases a **complete end‑to‑end machine learni
 
 ---
 
-## Contributions by Avunoori
-
-- Developed `app.py` backend integration for Smart Energy Prediction.
-- Designed `index.html` frontend with embedded HTML, CSS, and JS.
-- Added Jupyter notebook for Smart Energy Consumption analysis and forecasting.
-- Updated documentation for clarity and reproducibility.
